@@ -52,7 +52,8 @@
     "consolidate": "~0.10.0",
     "cookie-parser": "~1.1.0",
     "express-session": "~1.2.0",
-    "util-extend": "~1.0.1"
+    "util-extend": "~1.0.1",
+    "karka": "0.0.1"
   },
   "devDependencies": {
     "mocha": "^1.18.0",
